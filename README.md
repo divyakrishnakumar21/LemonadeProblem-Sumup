@@ -3,8 +3,8 @@
 At a lemonade stand, each lemonade costs $5. Customers are standing in front of the stand in
 an unorganized way and start to order.
 In this stand, each customer can:
-● buy one or more lemonades
-● pay with a $5, $10, or $20 bill
+- buy one or more lemonades
+- pay with a $5, $10, or $20 bill
 You must process the customer requests by order of arrival and return the correct change to
 each customer.
 Note that you do not have any change in hand at first.
